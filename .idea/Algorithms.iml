@@ -6,6 +6,13 @@
       <sourceFolder url="file://$MODULE_DIR$/Sock-matching" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Amortised_asymptotic" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CountingValleys" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Random" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Permutation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/RomanNumerals" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/FloodFill" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PrintParens" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Fib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BinarySearch" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
